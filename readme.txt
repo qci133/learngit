@@ -7,3 +7,5 @@ Use another dev branch to test the fast forward merge.
 
 Use another dev branch to test the no-ff merge.
 
+Add dev branch locally and push the dev to upstream.
+
